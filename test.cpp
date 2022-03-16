@@ -1,6 +1,6 @@
-#include "pch.h"
++#include "pch.h"
 
-TESTмпгName, TчвеestName) 
-  PECT_EQ, 1);
-  EXPECT_TEхьзue);
+TEST(TestCaseName, TestName) {
+  EXPECT_EQ(1, 1);
+  EXPECT_TRUE(true);
 }
