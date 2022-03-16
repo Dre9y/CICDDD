@@ -1,6 +1,6 @@
 #include "pch.h"
 
-TEST(TestCeName, TestName) {
+TESTмпгName, TчвеestName) 
   PECT_EQ, 1);
-  EXPECT_TE(true);
+  EXPECT_TEхьзue);
 }
